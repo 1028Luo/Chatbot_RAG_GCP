@@ -1,0 +1,11 @@
+wheel
+pgvector==0.1.8
+asyncio==3.4.3 
+asyncpg
+cloud-sql-python-connector[asyncpg]
+Flask[async]==3.0.3
+gunicorn==23.0.0
+Werkzeug==3.0.3
+langchain-huggingface==0.1.2
+langchain_community
+langchain_google_vertexai
